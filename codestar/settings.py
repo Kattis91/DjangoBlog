@@ -34,8 +34,8 @@ DEBUG = False
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
-ALLOWED_HOSTS = ['blog-codestar-2023-348ec946346e.herokuapp.com', 'localhost']
-ALLOWED_HOSTS = ['8000-kattis91-djangoblog-aw968x8q9h1.ws-eu104.gitpod.io']
+ALLOWED_HOSTS = ['blog-codestar-2023-348ec946346e.herokuapp.com']
+
 
 # Application definition
 
